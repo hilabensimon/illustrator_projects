@@ -33,5 +33,13 @@ The show is set in a medieval fantasy world filled with adventures, featuring ch
 
 ---
 
+## ⚖️ Copyright and Disclaimer
+- The characters and elements featured in this project are the intellectual property of **Matt Groening** and the **Disenchantment** series.  
+- Any logos, symbols, or branding related to **McDonald's** are the exclusive property of McDonald's Corporation.  
+- This project was created for **educational purposes only** and is not intended for commercial use.  
+- All rights to the original works remain with their respective copyright holders.
+
+---
+
 ## 📢 Feedback and Suggestions
 If you have ideas for improvement or questions about the process, feel free to open an issue or reach out to me!
