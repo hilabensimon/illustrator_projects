@@ -17,8 +17,7 @@ It was created as part of the final project for my Illustrator course, showcasin
 
 ---
 
-## 📂 Project Files
-- **Packaging Design (PNG Format)**:  
+## 🖼️ Preview
   <img src="./FriesPackage.png" alt="Fries Packaging Preview" width="400"/>
 
 ---
@@ -31,11 +30,6 @@ The show is set in a medieval fantasy world filled with adventures, featuring ch
 
 ## 🛠️ Tools and Technologies
 - **Adobe Illustrator**: Used for creating the illustration and design.
-
----
-
-## 🖼️ Preview
-![Fries Packaging Preview](./FriesPackage.png)
 
 ---
 
